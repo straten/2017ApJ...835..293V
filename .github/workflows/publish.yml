@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@main
       - name: Compile and Deploy
-        uses: straten/pubtex-action@main
+        uses: jonhue/pubtex-action@main
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           files: paper.tex
