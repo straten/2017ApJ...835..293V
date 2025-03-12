@@ -14,4 +14,4 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           files: paper.tex
-          pre_compile_command: update-tlmgr-latest.sh -- --upgrade && tlmgr update --self && tlmgr update --all
+          pre_compile_command: 
