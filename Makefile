@@ -36,3 +36,6 @@ publish:
 	git commit -m "published using 'make publish'" .
 	git push --set-upstream origin gh-pages
 	git checkout main
+
+clean:
+	rm -f `cat .gitignore`
