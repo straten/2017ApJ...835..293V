@@ -1,0 +1,268 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\href{#1}{#1}}
+\providecommand{\dodoi}[1]{doi:~\href{http://doi.org/#1}{\nolinkurl{#1}}}
+\providecommand{\doeprint}[1]{\href{http://ascl.net/#1}{\nolinkurl{http://ascl.net/#1}}}
+\providecommand{\doarXiv}[1]{\href{https://arxiv.org/abs/#1}{\nolinkurl{https://arxiv.org/abs/#1}}}
+
+\bibitem[{Allen \& Melrose(1982)}]{am82}
+Allen, M., \& Melrose, D. 1982, PASA, 4, 365
+
+\bibitem[{Amblard {et~al.}(1996)Amblard, Gaeta, \& Lacoume}]{agl96a}
+Amblard, P., Gaeta, M., \& Lacoume, J. 1996, Signal Processing, 53, 1 ,
+  \dodoi{http://dx.doi.org/10.1016/0165-1684(96)00071-0}
+
+\bibitem[{Backer(1970)}]{bac70}
+Backer, D.~C. 1970, Nature, 228, 42
+
+\bibitem[{Backer \& Rankin(1980)}]{br80}
+Backer, D.~C., \& Rankin, J.~M. 1980, ApJS, 42, 143
+
+\bibitem[{{Barakat}(1963)}]{bar63}
+{Barakat}, R. 1963, J. Opt. Soc. Am., 53, 317
+
+\bibitem[{Born \& Wolf(1970)}]{bw70}
+Born, M., \& Wolf, E. 1970, Principles of Optics: Electromagnetic Theory of
+  Propagation, Interference and Diffraction of Light (New York: Pergamon)
+
+\bibitem[{Bracewell(1986)}]{bra86b}
+Bracewell, R. 1986, The Fourier Transform and its Applications (New York:
+  McGraw-Hill)
+
+\bibitem[{Britton(2000)}]{bri00}
+Britton, M.~C. 2000, ApJ, 532, 1240
+
+\bibitem[{Brosseau \& Barakat(1992)}]{bb92}
+Brosseau, C., \& Barakat, R. 1992, Opt. Comm., 91, 408
+
+\bibitem[{{Burns} \& {Clark}(1969)}]{bc69}
+{Burns}, W.~R., \& {Clark}, B.~G. 1969, A\&A, 2, 280
+
+\bibitem[{Cairns {et~al.}(2003)Cairns, Johnston, \& Das}]{cjd03a}
+Cairns, I.~H., Johnston, S., \& Das, P. 2003, MNRAS, 343, 512
+
+\bibitem[{Cardoso(1991)}]{car91}
+Cardoso, J.-F. 1991, in ICASSP 91. 1991 International Conference on Acoustics,
+  Speech, and Signal Processing (New York: IEEE), 3109 -- 3112,
+  \dodoi{http://dx.doi.org/10.1109/ICASSP.1991.150113}
+
+\bibitem[{Cloude(1986)}]{clo86}
+Cloude, S. 1986, Optik, 75, 26
+
+\bibitem[{Cognard {et~al.}(1996)Cognard, Shrauner, Taylor, \&
+  Thorsett}]{cstt96}
+Cognard, I., Shrauner, J.~A., Taylor, J.~H., \& Thorsett, S.~E. 1996, ApJ, 457,
+  L81
+
+\bibitem[{{Cordes}(1976)}]{cor76}
+{Cordes}, J.~M. 1976, ApJ, 208, 944
+
+\bibitem[{Cordes(1986)}]{cor86}
+Cordes, J.~M. 1986, ApJ, 311, 183
+
+\bibitem[{{Cordes} {et~al.}(2004){Cordes}, {Bhat}, {Hankins}, {McLaughlin}, \&
+  {Kern}}]{cbh+04}
+{Cordes}, J.~M., {Bhat}, N.~D.~R., {Hankins}, T.~H., {McLaughlin}, M.~A., \&
+  {Kern}, J. 2004, ApJ, 612, 375
+
+\bibitem[{Cordes \& Hankins(1977)}]{ch77}
+Cordes, J.~M., \& Hankins, T.~H. 1977, ApJ, 218, 484
+
+\bibitem[{Cordes {et~al.}(1978)Cordes, Rankin, \& Backer}]{crb78}
+Cordes, J.~M., Rankin, J.~M., \& Backer, D.~C. 1978, ApJ, 223, 961
+
+\bibitem[{{Cordes} {et~al.}(2006){Cordes}, {Rickett}, {Stinebring}, \&
+  {Coles}}]{crsc06}
+{Cordes}, J.~M., {Rickett}, B.~J., {Stinebring}, D.~R., \& {Coles}, W.~A. 2006,
+  ApJ, 637, 346, \dodoi{10.1086/498332}
+
+\bibitem[{{Edwards}(2004)}]{edw04}
+{Edwards}, R.~T. 2004, A\&A, 426, 677
+
+\bibitem[{{Edwards} \& {Stappers}(2002)}]{es02}
+{Edwards}, R.~T., \& {Stappers}, B.~W. 2002, A\&A, 393, 733
+
+\bibitem[{{Edwards} \& {Stappers}(2003)}]{es03}
+---. 2003, A\&A, 407, 273
+
+\bibitem[{{Edwards} \& {Stappers}(2004)}]{es04}
+---. 2004, A\&A, 421, 681
+
+\bibitem[{{Ekers} \& {Moffet}(1969)}]{em69}
+{Ekers}, R.~D., \& {Moffet}, A.~T. 1969, ApJ, 158, L1, \dodoi{10.1086/180419}
+
+\bibitem[{Eriksson {et~al.}(2010)Eriksson, Ollila, \& Koivunen}]{eok10}
+Eriksson, J., Ollila, E., \& Koivunen, V. 2010, IEEE Transactions on Signal
+  Processing, 58, 5400, \dodoi{10.1109/TSP.2010.2054085}
+
+\bibitem[{Gangadhara(1997)}]{gan97}
+Gangadhara, R. 1997, A\&A, 327, 155
+
+\bibitem[{{Gangadhara} {et~al.}(1999){Gangadhara}, {Xilouris}, {von
+  Hoensbroech}, {Kramer}, {Jessner}, \& {Wielebinski}}]{gxv+99}
+{Gangadhara}, R.~T., {Xilouris}, K.~M., {von Hoensbroech}, A., {et~al.} 1999,
+  A\&A, 342, 474
+
+\bibitem[{Gil {et~al.}(1991)Gil, Snakowski, \& Stinebring}]{gss91}
+Gil, J.~A., Snakowski, J.~K., \& Stinebring, D.~R. 1991, A\&A, 242, 119
+
+\bibitem[{Goodman(1960)}]{goo60}
+Goodman, L.~A. 1960, Journal of the American Statistical Association, 55, 708.
+\newblock \url{http://www.jstor.org/stable/2281592}
+
+\bibitem[{Goodman(1963)}]{goo63}
+Goodman, N.~R. 1963, Ann. of Math. Stat., 34, 152
+
+\bibitem[{{Hankins} {et~al.}(2003){Hankins}, {Kern}, {Weatherall}, \&
+  {Eilek}}]{hkwe03}
+{Hankins}, T.~H., {Kern}, J.~S., {Weatherall}, J.~C., \& {Eilek}, J.~A. 2003,
+  Nature, 422, 141
+
+\bibitem[{Harding \& Tademaru(1981)}]{ht81}
+Harding, A.~K., \& Tademaru, E. 1981, ApJ, 243, 597
+
+\bibitem[{Heiles {et~al.}(1970)Heiles, Campbell, \& Rankin}]{hcr70}
+Heiles, C., Campbell, D.~B., \& Rankin, J.~M. 1970, Nature, 226, 529
+
+\bibitem[{{Jenet} \& {Gil}(2003)}]{jg03}
+{Jenet}, F.~A., \& {Gil}, J. 2003, ApJ, 596, L215, \dodoi{10.1086/379501}
+
+\bibitem[{Karastergiou {et~al.}(2003)Karastergiou, Johnston, \& Kramer}]{kjk03}
+Karastergiou, A., Johnston, S., \& Kramer, M. 2003, A\&A, 404, 325
+
+\bibitem[{{Karastergiou} {et~al.}(2011){Karastergiou}, {Roberts}, {Johnston},
+  {Lee}, {Weltevrede}, \& {Kramer}}]{krj+11}
+{Karastergiou}, A., {Roberts}, S.~J., {Johnston}, S., {et~al.} 2011, MNRAS,
+  415, 251
+
+\bibitem[{Kendall {et~al.}(1987)Kendall, Stuart, \& Ord}]{kso87}
+Kendall, M.~G., Stuart, A., \& Ord, J.~K. 1987, Kendall's Advanced Theory of
+  Statistics (London: Charles Griffin)
+
+\bibitem[{Kollo \& von Rosen(2005)}]{kr05}
+Kollo, T., \& von Rosen, D. 2005, {Advanced Multivariate Statistics with
+  Matrices} (Dordrecht: Springer).
+\newblock \url{https://cds.cern.ch/record/1250409}
+
+\bibitem[{Krishnamohan \& Downs(1983)}]{kd83}
+Krishnamohan, S., \& Downs, G.~S. 1983, ApJ, 265, 372
+
+\bibitem[{{Liu} {et~al.}(2015){Liu}, {Karuppusamy}, {Lee}, {Stappers},
+  {Kramer}, {Smits}, {Purver}, {Janssen}, \& {Perrodin}}]{lkl+15}
+{Liu}, K., {Karuppusamy}, R., {Lee}, K.~J., {et~al.} 2015, MNRAS, 449, 1158,
+  \dodoi{10.1093/mnras/stv397}
+
+\bibitem[{Manchester {et~al.}(1975)Manchester, Taylor, \& Huguenin}]{mth75}
+Manchester, R.~N., Taylor, J.~H., \& Huguenin, G.~R. 1975, ApJ, 196, 83
+
+\bibitem[{McCullagh(1987)}]{mcc87}
+McCullagh, P. 1987, Tensor Methods in Statistics, Monographs on Statistics and
+  Applied Probability (London: Chapman and Hall).
+\newblock \url{https://books.google.com.au/books?id=JEjvAAAAMAAJ}
+
+\bibitem[{McKinnon \& Stinebring(1998)}]{ms98}
+McKinnon, M., \& Stinebring, D. 1998, ApJ, 502, 883
+
+\bibitem[{{McKinnon}(2002)}]{mck02}
+{McKinnon}, M.~M. 2002, ApJ, 568, 302
+
+\bibitem[{{McKinnon}(2003{\natexlab{a}})}]{mck03a}
+---. 2003{\natexlab{a}}, ApJ, 590, 1026
+
+\bibitem[{{McKinnon}(2003{\natexlab{b}})}]{mck03b}
+---. 2003{\natexlab{b}}, ApJS, 148, 519
+
+\bibitem[{{McKinnon}(2004)}]{mck04}
+---. 2004, ApJ, 606, 1154
+
+\bibitem[{{McKinnon}(2006)}]{mck06}
+---. 2006, ApJ, 645, 551
+
+\bibitem[{{McKinnon} \& {Stinebring}(2000)}]{ms00}
+{McKinnon}, M.~M., \& {Stinebring}, D.~R. 2000, ApJ, 529, 435
+
+\bibitem[{{Melrose}(1993{\natexlab{a}})}]{mel93a}
+{Melrose}, D.~B. 1993{\natexlab{a}}, Journal of Plasma Physics, 50, 267,
+  \dodoi{10.1017/S0022377800027069}
+
+\bibitem[{{Melrose}(1993{\natexlab{b}})}]{mel93b}
+---. 1993{\natexlab{b}}, Journal of Plasma Physics, 50, 283,
+  \dodoi{10.1017/S0022377800027070}
+
+\bibitem[{Melrose \& Macquart(1998)}]{mm98}
+Melrose, D.~B., \& Macquart, J.-P. 1998, ApJ, 505, 921
+
+\bibitem[{Mendel(1991)}]{men91}
+Mendel, J. 1991, Proc. IEEE, 79, 278
+
+\bibitem[{{Os{\l}owski} {et~al.}(2014){Os{\l}owski}, {van Straten}, {Bailes},
+  {Jameson}, \& {Hobbs}}]{ovb+14}
+{Os{\l}owski}, S., {van Straten}, W., {Bailes}, M., {Jameson}, A., \& {Hobbs},
+  G. 2014, MNRAS, 441, 3148, \dodoi{10.1093/mnras/stu804}
+
+\bibitem[{{Os{\l}owski} {et~al.}(2013){Os{\l}owski}, {van Straten}, {Demorest},
+  \& {Bailes}}]{ovdb13}
+{Os{\l}owski}, S., {van Straten}, W., {Demorest}, P., \& {Bailes}, M. 2013,
+  MNRAS, 430, 416, \dodoi{10.1093/mnras/sts662}
+
+\bibitem[{Picinbono(1994)}]{pic94}
+Picinbono, B. 1994, Trans. Sig. Proc., 42, 3473, \dodoi{10.1109/78.340781}
+
+\bibitem[{{Popov} {et~al.}(2002){Popov}, {Bartel}, {Cannon}, {Novikov},
+  {Kondratiev}, \& {Altunin}}]{pbc+02}
+{Popov}, M.~V., {Bartel}, N., {Cannon}, W.~H., {et~al.} 2002, Astronomy
+  Reports, 46, 206, \dodoi{10.1134/1.1463098}
+
+\bibitem[{{Ransom} {et~al.}(2002){Ransom}, {Eikenberry}, \&
+  {Middleditch}}]{rem02}
+{Ransom}, S.~M., {Eikenberry}, S.~S., \& {Middleditch}, J. 2002, AJ, 124, 1788
+
+\bibitem[{{Rickett}(1975)}]{ric75}
+{Rickett}, B.~J. 1975, ApJ, 197, 185
+
+\bibitem[{{Smirnov}(2011)}]{smi11}
+{Smirnov}, O.~M. 2011, A\&A, 531, A159, \dodoi{10.1051/0004-6361/201116764}
+
+\bibitem[{Stinebring {et~al.}(1984)Stinebring, Cordes, Rankin, Weisberg, \&
+  Boriakoff}]{scr+84}
+Stinebring, D.~R., Cordes, J.~M., Rankin, J.~M., Weisberg, J.~M., \& Boriakoff,
+  V. 1984, ApJS, 55, 247
+
+\bibitem[{{Stinebring} {et~al.}(2001){Stinebring}, {McLaughlin}, {Cordes},
+  {Becker}, {Goodman}, {Kramer}, {Sheckard}, \& {Smith}}]{smc+01}
+{Stinebring}, D.~R., {McLaughlin}, M.~A., {Cordes}, J.~M., {et~al.} 2001, ApJ,
+  549, L97
+
+\bibitem[{Sultan \& Tracy(1996)}]{st96}
+Sultan, S.~A., \& Tracy, D.~S. 1996, Linear Algebra and its Applications,
+  237/238, 191 , \dodoi{http://dx.doi.org/10.1016/0024-3795(95)00559-5}
+
+\bibitem[{Taylor {et~al.}(1971)Taylor, Huguenin, Hirsch, \&
+  Manchester}]{thhm71}
+Taylor, J.~H., Huguenin, G.~R., Hirsch, R.~M., \& Manchester, R.~N. 1971,
+  Astrophys. Lett., 9, 205
+
+\bibitem[{Taylor {et~al.}(1975)Taylor, Manchester, \& Huguenin}]{tmh75}
+Taylor, J.~H., Manchester, R.~N., \& Huguenin, G.~R. 1975, ApJ, 195, 513
+
+\bibitem[{{van Straten}(2009)}]{van09}
+{van Straten}, W. 2009, ApJ, 694, 1413, \dodoi{10.1088/0004-637X/694/2/1413}
+
+\bibitem[{{van Straten}(2010)}]{van10}
+---. 2010, ApJ, 719, 985, \dodoi{10.1088/0004-637X/719/1/985}
+
+\bibitem[{{Walker} {et~al.}(2004){Walker}, {Melrose}, {Stinebring}, \&
+  {Zhang}}]{wmsz04}
+{Walker}, M.~A., {Melrose}, D.~B., {Stinebring}, D.~R., \& {Zhang}, C.~M. 2004,
+  MNRAS, 354, 43, \dodoi{10.1111/j.1365-2966.2004.08159.x}
+
+\bibitem[{{Weltevrede} {et~al.}(2006){Weltevrede}, {Edwards}, \&
+  {Stappers}}]{wes06}
+{Weltevrede}, P., {Edwards}, R.~T., \& {Stappers}, B.~W. 2006, A\&A, 445, 243
+
+\bibitem[{{Weltevrede} {et~al.}(2007){Weltevrede}, {Stappers}, \&
+  {Edwards}}]{wse07}
+{Weltevrede}, P., {Stappers}, B.~W., \& {Edwards}, R.~T. 2007, A\&A, 469, 607,
+  \dodoi{10.1051/0004-6361:20066855}
+
+\end{thebibliography}
