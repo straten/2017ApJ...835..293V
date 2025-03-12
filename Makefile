@@ -24,3 +24,15 @@ regimes: regimes.C
 
 include $(LOCAL_ROOT)/Makefile.tex
 
+publish:
+	mkdir /tmp/gh-pages
+	mv paper.pdf /tmp/gh-pages
+	cp README.md /tmp/gh-pages
+	git checkout gh-pages
+	mv /tmp/gh-pages/README.md index.md
+	mv /tmp/gh-pages/paper.pdf 2017ApJ...835..293V_extended.pdf
+	git add index.md
+	git add 2017ApJ...835..293V_extended.pdf
+	git commit -m "published using `make publish`" .
+	git push
+	git checkout main

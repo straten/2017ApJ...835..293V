@@ -38,9 +38,9 @@ void trapezoid ( pgplot::Plot3D& volume,
 
 int main (int argc, char** argv)
 {
-  char* unknown = "?";
+  const char* unknown = "?";
 
-  char* device = unknown;
+  const char* device = unknown;
   if (argc > 1)
     device = argv[1];
 
