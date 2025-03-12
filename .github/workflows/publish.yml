@@ -10,8 +10,8 @@ jobs:
     steps:
       - uses: actions/checkout@main
       - name: Compile and Deploy
-        uses: jonhue/pubtex-action@main
+        uses: straten/pubtex-action@main
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          files: |
-            paper.tex
+          files: paper.tex
+          pre_compile_command: update-tlmgr-latest.sh -- --upgrade && tlmgr update --self && tlmgr update --all
