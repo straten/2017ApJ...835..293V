@@ -1,0 +1,42 @@
+%\documentclass[preview=true]{standalone}
+\documentclass{article}
+
+\usepackage{tikz,pgflibraryshapes}
+\usepackage{amssymb}
+\usepackage{tikz-cd}
+
+\pgfrealjobname{commutative_ext}
+
+\newcommand{\rankfour}{\ensuremath{\mathbb{C}^2_{2;2}}}
+\newcommand{\ranktwo}{\ensuremath{\mathbb{C}^4_{1;1}}}
+
+\begin{document}
+
+\beginpgfgraphicnamed{commutative}
+\begin{tikzcd}
+  \mathbb{C}^2_{1;1} \times \mathbb{C}^2_{1;1}
+  \arrow{r}{\otimes}
+  \arrow[leftrightarrow]{d}[swap]{\sigma\times\sigma}
+  & \rankfour
+  \arrow[leftrightarrow]{d}{\sigma\otimes\sigma} \\
+  \mathbb{C}^4 \times \mathbb{C}^4
+  \arrow{r}{\otimes}
+  & \ranktwo
+\end{tikzcd}
+\endpgfgraphicnamed
+
+\end{document}
+
+
+
+
+
+
+\begin{document}
+
+\begin{tikzpicture}
+ % ...
+\end{tikzpicture}
+
+
+\end{document}
